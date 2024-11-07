@@ -3,14 +3,6 @@
 [![Github](https://img.shields.io/github/followers/cd-86?label=Follow&style=social)](https://github.com/cd-86)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 
-- I'm a software engineer from Ukraine with 5 years of commercial development experience.
-- Currently working on [Overvis Cloud Platform](https://www.overvis.com/) for remote monitoring and control of industrial equipment.
-- In my free time i love contributing to open source projects and playing video games.
-- One of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) maintainers.
-- Creator of several small Rust crates ([dns-bench](https://github.com/cd-86/dns-bench), [logged-tcp-proxy](https://github.com/cd-86/logged-tcp-proxy) and [logged-stream](https://github.com/cd-86/logged-stream)) and [OpenCart 3 plugins](https://github.com/overvis/opencart-plugins).
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cd-86zxc)
-
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/cd-86#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
