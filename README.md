@@ -1,7 +1,6 @@
 ### Hey 👋, I'm CD
 
 [![Github](https://img.shields.io/github/followers/cd-86?label=Follow&style=social)](https://github.com/cd-86)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/cd-86#gh-light-mode-only">
